@@ -1,0 +1,17 @@
+{
+    "name": "FCC-API-Project-Request-Header-Parser-Microservice",
+    "version": "0.0.1",
+    "main": "server.js",
+    "scripts": {
+        "start": "node server.js"
+    },
+    "author": "Priya Bihani",
+    "dependencies": {
+        "express": "^5.0.0-alpha.2",
+        "cors": "^2.8.1"
+    },
+    "engines": {
+        "node": "4.4.5"
+    },
+    "license": "MIT"
+}
